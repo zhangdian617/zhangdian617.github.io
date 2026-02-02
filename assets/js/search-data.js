@@ -483,7 +483,7 @@ ninja.data = [{
               window.location.href = "/academic/projects/calmwave/";
             },},{id: "projects-ai-driven-digital-dentistry",
           title: 'AI-Driven Digital Dentistry',
-          description: "Next-Gen AI Framework for 3D Reconstruction, Orthodontics, and Chairside Manufacturing.",
+          description: "Next-Generation AI Platform for Comprehensive Oral Healthcare.",
           section: "Projects",handler: () => {
               window.location.href = "/academic/projects/smart_dentistry/";
             },},{id: "teachings-data-science-fundamentals",
