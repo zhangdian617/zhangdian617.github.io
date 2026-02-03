@@ -488,6 +488,11 @@ ninja.data = [{
           description: "Physiology-Based Music Generation System for Intelligent Stress Management.",
           section: "Projects",handler: () => {
               window.location.href = "/academic/projects/calmwave/";
+            },},{id: "projects-digital-human-synthesis",
+          title: 'Digital Human Synthesis',
+          description: "AI-Based Technology for Digital Human Voice and Lip-Synchronization Synthesis.",
+          section: "Projects",handler: () => {
+              window.location.href = "/academic/projects/digital_human/";
             },},{id: "projects-ai-driven-digital-dentistry",
           title: 'AI-Driven Digital Dentistry',
           description: "Next-Generation AI Platform for Comprehensive Oral Healthcare.",
