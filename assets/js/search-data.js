@@ -493,6 +493,11 @@ ninja.data = [{
           description: "Next-Generation AI Platform for Comprehensive Oral Healthcare.",
           section: "Projects",handler: () => {
               window.location.href = "/academic/projects/smart_dentistry/";
+            },},{id: "projects-smart-sensing",
+          title: 'Smart Sensing',
+          description: "Provide diverse support for people in need.",
+          section: "Projects",handler: () => {
+              window.location.href = "/academic/projects/smart_sensing/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
