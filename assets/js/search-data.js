@@ -483,9 +483,9 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/academic/projects/9_project/";
-            },},{id: "projects-calmwave-stress-management-via-ai-music",
-          title: 'CalmWave - Stress Management via AI Music',
-          description: "A physiology-based music generation system that creates personalized music for stress relief.",
+            },},{id: "projects-calmwave",
+          title: 'CalmWave',
+          description: "Physiology-Based Music Generation System for Intelligent Stress Management.",
           section: "Projects",handler: () => {
               window.location.href = "/academic/projects/calmwave/";
             },},{id: "projects-ai-driven-digital-dentistry",
