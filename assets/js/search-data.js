@@ -483,6 +483,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/academic/projects/9_project/";
+            },},{id: "projects-intelligent-acupuncture",
+          title: 'Intelligent Acupuncture',
+          description: "Multimodal bioelectrical signal assessment and LLM-based TCM reasoning.",
+          section: "Projects",handler: () => {
+              window.location.href = "/academic/projects/acupuncture/";
             },},{id: "projects-calmwave",
           title: 'CalmWave',
           description: "Physiology-Based Music Generation System for Intelligent Stress Management.",
