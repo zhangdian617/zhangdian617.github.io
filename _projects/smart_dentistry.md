@@ -201,12 +201,12 @@ function closeLightbox() {
 
 <div class="section-header">
     <h2 class="section-title">
-        1. Multi-modal Data Fusion & Processing
-        <span class="cn-text" style="font-size: 0.6em; display:inline-block; margin-left: 10px;">多模态数据融合与处理</span>
+        1. AI-based Automated Tooth Segmentation, Reconstruction, and Fusion
+        <span class="cn-text" style="font-size: 0.6em; display:inline-block; margin-left: 10px;">基于 AI 的自动牙齿分割、重建与融合</span>
     </h2>
     <div class="section-subtitle">
-        AI-based Automated Tooth Segmentation, Reconstruction, and Fusion.
-        <span class="cn-text">基于 AI 的自动牙齿分割、重建与融合。</span>
+        Multi-modal Data Fusion & Processing
+        <span class="cn-text">多模态数据融合与处理</span>
     </div>
 </div>
 
@@ -537,8 +537,8 @@ function closeLightbox() {
         <span class="cn-text" style="font-size: 0.6em; display:inline-block; margin-left: 10px;">医生辅助培训与远程诊断</span>
     </h2>
     <div class="section-subtitle">
-        VR-based training system for clinical expertise.
-        <span class="cn-text">基于 VR 的临床技能培训系统。</span>
+        AR-based training system for clinical expertise.
+        <span class="cn-text">基于AR增强现实技术的临床技能培训系统。</span>
     </div>
 </div>
 
