@@ -3,7 +3,7 @@ layout: page
 title: Smart Sensing
 description: Provide diverse support for people in need.
 img: assets/img/smart_sensing/preview.jpg
-importance: 2
+importance: 3
 category: Smart Healthcare
 related_publications: false 
 ---

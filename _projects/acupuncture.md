@@ -3,7 +3,7 @@ layout: page
 title: Intelligent Acupuncture
 description: Multimodal bioelectrical signal assessment and LLM-based TCM reasoning.
 img: assets/img/acupuncture/preview.jpg
-importance: 4
+importance: 2
 category: Smart Healthcare
 related_publications: false 
 ---
