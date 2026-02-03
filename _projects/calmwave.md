@@ -12,6 +12,34 @@ related_publications: false
     /* 1. 隐藏默认标题 */
     header.post-header { display: none !important; }
 
+    /* 全局背景微调 */
+    /* (A) 把整个网页背景变成浅灰色 */
+    body {
+        background-color: #f4f6f8 !important; 
+    }
+
+    /* (B) 把内容容器变成“白纸” */
+    body > .container {
+        background-color: #ffffff !important; 
+        max-width: 1150px !important; 
+        
+        /* 制造立体感的阴影 */
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08); 
+        
+        /* 内部留白 */
+        padding: 40px 60px !important; 
+        
+        /* 外部留白 */
+        margin-top: 30px;
+        margin-bottom: 60px;
+        
+        /* 适应主题色青条 */
+        border-top: 5px solid #00C6FB; 
+        
+        /* 轻微圆角 */
+        border-radius: 4px; 
+    }
+
     /* 2. 定义高级渐变色 (青 -> 蓝) */
     :root {
         --calm-gradient: linear-gradient(135deg, #00C6FB 0%, #005BEA 100%);
