@@ -17,6 +17,124 @@
 
   <!-- Body -->
   <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
+    
+    <nav class="mobile-nav-container">
+        <div class="mobile-nav-bar">
+            <a href="{{ site.baseurl }}/" class="nav-brand">Dian Zhang</a>
+            
+            <div class="nav-toggle" onclick="toggleMobileMenu()">
+                <span style="font-size: 0.9rem; font-weight: 600; letter-spacing: 1px;">MENU</span>
+                <i class="fas fa-bars" style="margin-left: 8px;"></i>
+            </div>
+        </div>
+
+        <div id="mobile-menu-list" class="mobile-menu-items">
+            <a href="{{ site.baseurl }}/">HOME</a>
+            <a href="{{ site.baseurl }}/projects/">PROJECTS</a>
+            <a href="{{ site.baseurl }}/publications/">PUBLICATIONS</a>
+            <a href="{{ site.baseurl }}/cv/">CV</a>
+            </div>
+    </nav>
+    
+    <style>
+        /* 默认隐藏 (桌面端不显示) */
+        .mobile-nav-container { display: none; }
+
+        /* 仅在移动端显示 */
+        @media (max-width: 768px) {
+            /* 1. 导航栏容器：改为岭南红 */
+            .mobile-nav-container {
+                display: block;
+                position: fixed;
+                top: 0;
+                left: 0;
+                width: 100%;
+                z-index: 99999;
+                /* 🔴 改这里：岭南大学标准红 */
+                background-color: #B10021; 
+                box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+            }
+
+            /* 2. 顶部条内容 */
+            .mobile-nav-bar {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                height: 50px;
+                padding: 0 20px;
+                color: #ffffff;
+            }
+            .nav-brand {
+                color: #ffffff !important;
+                font-weight: 700;
+                font-size: 1.1rem;
+                text-decoration: none;
+                text-transform: uppercase;
+                letter-spacing: 1px;
+            }
+
+            /* MENU 按钮 */
+            .nav-toggle {
+                cursor: pointer;
+                display: flex;
+                align-items: center;
+                padding: 5px 12px;
+                /* 🔴 按钮边框改为半透明白色，融合红色背景 */
+                border: 1px solid rgba(255,255,255,0.3);
+                border-radius: 4px;
+                transition: background 0.3s;
+            }
+            .nav-toggle:active { 
+                background-color: rgba(0,0,0,0.2); /* 点击时稍微变暗 */
+            }
+
+            /* 3. 下拉菜单列表：改为深一点的红色，增加层次感 */
+            .mobile-menu-items {
+                display: none;
+                /* 🔴 改这里：菜单背景用比顶栏稍深一点的红 */
+                background-color: #8B001A; 
+                border-top: 1px solid rgba(255,255,255,0.1);
+            }
+            .mobile-menu-items a {
+                display: block;
+                padding: 15px 25px;
+                color: #fff !important; /* 纯白文字 */
+                text-decoration: none;
+                font-size: 0.95rem;
+                /* 分割线改为半透明白 */
+                border-bottom: 1px solid rgba(255,255,255,0.1);
+                font-weight: 500;
+                letter-spacing: 1px;
+            }
+            
+            /* 4. 选中/悬浮态：改为白色背景+红色字 */
+            .mobile-menu-items a:hover {
+                background-color: #ffffff; 
+                color: #B10021 !important; /* 文字变回岭南红 */
+            }
+
+            /* 5. 调整正文间距 */
+            body > .container {
+                margin-top: 70px !important;
+            }
+            /* 6. 隐藏 al-folio 自带 header */
+            header {
+                display: none !important;
+            }
+        }
+    </style>
+
+    <script>
+        function toggleMobileMenu() {
+            var menu = document.getElementById("mobile-menu-list");
+            if (menu.style.display === "block") {
+                menu.style.display = "none";
+            } else {
+                menu.style.display = "block";
+            }
+        }
+    </script>
+
     <!-- Header -->
     {% include header.liquid %}
 

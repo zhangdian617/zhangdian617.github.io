@@ -4,15 +4,15 @@
     - name: Full Name
       value: Dian Zhang (张滇)
     - name: Position
-      value: Professor, Ph.D Supervisor
+      value: Associate Professor, Ph.D Supervisor
     - name: Affiliation
-      value: Shenzhen University
+      value: Lingnan University
     - name: Email
-      value: zhangd@szu.edu.cn
+      value: zhangdian@ln.edu.hk
     - name: Phone
       value: (+86) 135-0005-0657
     - name: Research Interests
-      value: Smart Healthcare, Data Analytics, IoT, Mobile Computing
+      value: Artificial Intelligence, Machine Learning, Smart Healthcare, Data Analytics, IoT
 
 - title: Education
   type: time_table
@@ -32,14 +32,17 @@
 - title: Academic Experience
   type: time_table
   contents:
-    - title: Professor
-      institution: College of Computer Science & Software Engineering, Shenzhen University
-      year: 2023 - Now
+    - title: Associate Professor
+      institution: School of Data Science, Lingnan University
+      year: Now
       description:
         - "<strong>Honorary Professor</strong>, Faculty of Dentistry, Hong Kong University (since 2024)"
         - "<strong>Adjunct Associate Professor</strong>, HKUST (Guangzhou) (since 2023)"
+    - title: Professor
+      institution: College of Computer Science & Software Engineering, Shenzhen University
+      year: 2023 - 2025
     - title: Associate Professor
-      institution: Shenzhen University
+      institution: College of Computer Science & Software Engineering, Shenzhen University
       year: 2021 - 2022
     - title: Associate Professor
       institution: Department of Computing & Decision Sciences, Lingnan University, Hong Kong
@@ -86,19 +89,19 @@
 - title: Selected Grants
   type: time_table
   contents:
-    - title: PI
+    - title: Principal Investigator
       institution: "Machine Learning Curriculum Development for AI Talent Cultivation (￥200k)"
       year: 2024 - 2026
-    - title: PI
+    - title: Principal Investigator
       institution: "Remote Medical Interaction based on Wearable Devices, Shenzhen Sci & Tech Foundation (￥600k)"
       year: 2023 - 2025
-    - title: PI
+    - title: Principal Investigator
       institution: "Next Generation Wireless Localization and Behavior Recognition, NSFC No.61872247 (￥580k)"
       year: 2019 - 2022
-    - title: PI
+    - title: Principal Investigator
       institution: "Next Generation Security Monitoring System, Shenzhen Peacock Program (￥2.7M)"
       year: 2015 - 2018
-    - title: CI
+    - title: Co-Investigator
       institution: "NSFC-Guangdong Province Joint Fund No.U1301252 (￥2.7M)"
       year: 2014 - 2017
 
