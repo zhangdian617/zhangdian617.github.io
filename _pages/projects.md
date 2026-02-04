@@ -5,7 +5,7 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 2
-display_categories: [Smart Healthcare, Mobile Computing, AI & Multimedia]
+display_categories: [Smart Healthcare, Wireless Sensing, AI & Multimedia]
 horizontal: false
 ---
 

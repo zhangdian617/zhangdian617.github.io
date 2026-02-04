@@ -190,9 +190,7 @@ latest_posts:
             <div class="mt-2">
                 <i class="fas fa-globe fa-fw" style="color: #444;"></i> 
                 [<a href="https://scholar.google.com/citations?user=tiE0IDMAAAAJ&hl=zh-CN" target="_blank">Google Scholar</a>] 
-                [<a href="#" target="_blank">DBLP</a>] 
-                [<a href="https://github.com/zhangdian617" target="_blank">GitHub</a>]
-                [<a href="#" target="_blank">中文主页</a>]
+                [<a href="https://dblp.org/pid/49/3884-1.html" target="_blank">DBLP</a>] 
             </div>
         </div> 
     </div> 
@@ -206,7 +204,7 @@ latest_posts:
 
 <div class="text-justify">
     <p>
-        <b>Dian Zhang</b> is currently a tenured Associate Professor and Ph.D. Supervisor at <b>Lingnan University</b>. She serves as the <b>Associate Dean</b> of the School of Data Science and the <b>Head</b> of the Division of Industrial Data Science. Her research interests span the fields of <b>mobile computing, smart healthcare, and data analytics</b>. To date, she has published approximately 60 papers in top international conferences and journals, with the majority being <b>first-authored by herself or  graduate students under her supervision</b>. The total amount of research funding(PI/CI) exceeds 10 Million Yuan.
+        <b>Dian Zhang (张滇)</b> is currently a tenured Associate Professor and Ph.D. Supervisor at <b>Lingnan University</b>. She serves as the <b>Associate Dean</b> of the School of Data Science and the <b>Head</b> of the Division of Industrial Data Science. Her research interests span the fields of <b>mobile computing, smart healthcare, and data analytics</b>. To date, she has published approximately 60 papers in top international conferences and journals, with the majority being <b>first-authored by herself or  graduate students under her supervision</b>. The total amount of research funding(PI/CI) exceeds 10 Million Yuan.
     </p>
     <p>
         As one of the earliest researchers to <b>pioneer device-free localization</b> and behavior recognition technologies, she designed novel algorithms for device-free object positioning and sensing, helping to establish new research directions in the field. Her research excellence has been recognized with prestigious awards, including: 2019 Ministry of Education Natural Science Second Prize (教育部自然科学二等奖), 2022 Shenzhen Natural Science Award First Prize (深圳市自然科学一等奖), 2019 Pacific Insurance Company Academic Achievement Award.
