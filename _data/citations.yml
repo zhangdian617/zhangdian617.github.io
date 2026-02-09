@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-04'
+  last_updated: '2026-02-09'
 papers:
   tiE0IDMAAAAJ:-DxkuPiZhfEC:
     citations: 3
@@ -10,8 +10,8 @@ papers:
     title: A precise RFID indoor localization system with sensor network assistance
     year: '2015'
   tiE0IDMAAAAJ:0aBXIfxlw9sC:
-    citations: 3
-    title: 'ST-RLNet: Spatio-temporal representation learning for multi-step traffic flow prediction'
+    citations: 4
+    title: 'St-rlnet: Spatio-temporal representation learning for multi-step traffic flow prediction'
     year: '2025'
   tiE0IDMAAAAJ:1tZ8xJnm2c8C:
     citations: 0
@@ -106,7 +106,7 @@ papers:
     title: "ASTCN: An attentive spatial\u2013temporal convolutional network for flow prediction"
     year: '2021'
   tiE0IDMAAAAJ:UuEBAcK4md4C:
-    citations: 47
+    citations: 48
     title: Fine-grained and real-time gesture recognition by using IMU sensors
     year: '2021'
   tiE0IDMAAAAJ:WF5omc3nYNoC:
