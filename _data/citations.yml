@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-20'
+  last_updated: '2026-02-23'
 papers:
   tiE0IDMAAAAJ:-DxkuPiZhfEC:
     citations: 3
@@ -186,7 +186,7 @@ papers:
     title: An empirical study of radio signal strength in sensor networks
     year: '2006'
   tiE0IDMAAAAJ:kJDgFkosVoMC:
-    citations: 6
+    citations: 7
     title: 'Taposenet: Teeth alignment based on pose estimation via multi-scale graph convolutional network'
     year: '2024'
   tiE0IDMAAAAJ:k_7cPK9k7w8C:
