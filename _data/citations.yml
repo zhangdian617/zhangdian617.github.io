@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-23'
+  last_updated: '2026-02-27'
 papers:
   tiE0IDMAAAAJ:-DxkuPiZhfEC:
     citations: 3
@@ -14,7 +14,7 @@ papers:
     title: 'St-rlnet: Spatio-temporal representation learning for multi-step traffic flow prediction'
     year: '2025'
   tiE0IDMAAAAJ:1tZ8xJnm2c8C:
-    citations: 0
+    citations: 1
     title: 'Enhancing malignant transformation predictions in oral potentially malignant disorders: A novel machine learning framework using real-world data'
     year: '2025'
   tiE0IDMAAAAJ:27LrP4qxOz0C:
@@ -30,7 +30,7 @@ papers:
     title: Leveraging deep learning for automatic literature screening in intelligent bibliometrics
     year: '2023'
   tiE0IDMAAAAJ:2ywjKiB__4kC:
-    citations: 3
+    citations: 4
     title: Next-generation AI framework for comprehensive oral leukoplakia evaluation and management
     year: '2025'
   tiE0IDMAAAAJ:48xauSegjOkC:
@@ -230,7 +230,7 @@ papers:
     title: A low-cost smart glove system for real-time fitness coaching
     year: '2020'
   tiE0IDMAAAAJ:u-x6o8ySG0sC:
-    citations: 335
+    citations: 337
     title: RFID-based localization and tracking technologies
     year: '2011'
   tiE0IDMAAAAJ:u5HHmVD_uO8C:
