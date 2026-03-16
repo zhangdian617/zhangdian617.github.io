@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-27'
+  last_updated: '2026-03-16'
 papers:
   tiE0IDMAAAAJ:-DxkuPiZhfEC:
     citations: 3
@@ -10,7 +10,7 @@ papers:
     title: A precise RFID indoor localization system with sensor network assistance
     year: '2015'
   tiE0IDMAAAAJ:0aBXIfxlw9sC:
-    citations: 4
+    citations: 5
     title: 'St-rlnet: Spatio-temporal representation learning for multi-step traffic flow prediction'
     year: '2025'
   tiE0IDMAAAAJ:1tZ8xJnm2c8C:
@@ -74,7 +74,7 @@ papers:
     title: 'MOCUS: moving object counting using ultrasonic sensor networks'
     year: '2008'
   tiE0IDMAAAAJ:IsPWOBWtZBwC:
-    citations: 32
+    citations: 33
     title: Profiling driver behavior for personalized insurance pricing and maximal profit
     year: '2018'
   tiE0IDMAAAAJ:JTqpx9DYBaYC:
@@ -94,7 +94,7 @@ papers:
     title: 'Terahertz downlink channel estimation using AIoT systems: OMP integrated pruned deep CNN method'
     year: '2025'
   tiE0IDMAAAAJ:SIv7DqKytYAC:
-    citations: 15
+    citations: 16
     title: "Is it all about you or your driving? Designing IoT\u2010enabled risk assessments"
     year: '2022'
   tiE0IDMAAAAJ:Tyk-4Ss8FVUC:
@@ -162,11 +162,11 @@ papers:
     title: Localizing multiple objects in an rf-based dynamic environment
     year: '2012'
   tiE0IDMAAAAJ:g5Ck-dwhA_QC:
-    citations: 45
+    citations: 46
     title: "SmartRolling: A human\u2013machine interface for wheelchair control using EEG and smart sensing techniques"
     year: '2023'
   tiE0IDMAAAAJ:ghEM2AJqZyQC:
-    citations: 9
+    citations: 12
     title: A computational analysis of aspect-based sentiment analysis research through bibliometric mapping and topic modeling
     year: '2025'
   tiE0IDMAAAAJ:hSRAE-fF4OAC:
@@ -178,7 +178,7 @@ papers:
     title: 'Double free: Measurement-free localization for transceiver-free object'
     year: '2014'
   tiE0IDMAAAAJ:isU91gLudPYC:
-    citations: 0
+    citations: 1
     title: 'MVDC: A Multi-view Dental Completion Model Based on Contrastive Learning'
     year: '2025'
   tiE0IDMAAAAJ:jSAVyFp_754C:
@@ -214,7 +214,7 @@ papers:
     title: 'RF-Eye: Training-Free Object Shape Detection Using Directional RF Antenna'
     year: '2022'
   tiE0IDMAAAAJ:rbm3iO8VlycC:
-    citations: 7
+    citations: 8
     title: 'PBE: Driver Behavior Assessment Beyond Trajectory Profiling'
     year: '2018'
   tiE0IDMAAAAJ:roLk4NBRz8UC:
@@ -234,7 +234,7 @@ papers:
     title: RFID-based localization and tracking technologies
     year: '2011'
   tiE0IDMAAAAJ:u5HHmVD_uO8C:
-    citations: 351
+    citations: 352
     title: An RF-based system for tracking transceiver-free objects
     year: '2007'
   tiE0IDMAAAAJ:ufrVoPGSRksC:
@@ -246,7 +246,7 @@ papers:
     title: 'Fgrl-net: Fine-grained personalized patient representation learning for clinical risk prediction based on ehrs'
     year: '2023'
   tiE0IDMAAAAJ:wE-fMHVdjMkC:
-    citations: 3
+    citations: 4
     title: 'scDTL: enhancing single-cell RNA-seq imputation through deep transfer learning with bulk cell information'
     year: '2024'
   tiE0IDMAAAAJ:zGdJYJv2LkUC:
