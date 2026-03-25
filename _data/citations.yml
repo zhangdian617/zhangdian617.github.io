@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-16'
+  last_updated: '2026-03-25'
 papers:
   tiE0IDMAAAAJ:-DxkuPiZhfEC:
     citations: 3
@@ -42,7 +42,7 @@ papers:
     title: Precise transceiver-free localization in complex indoor environment
     year: '2016'
   tiE0IDMAAAAJ:8Xgff_V0N9gC:
-    citations: 25
+    citations: 26
     title: Leveraging statistical information in fine-grained financial sentiment analysis
     year: '2022'
   tiE0IDMAAAAJ:9ZlFYXVOiuMC:
@@ -62,7 +62,7 @@ papers:
     title: 'MoCha: Large-scale driving pattern characterization for usage-based insurance'
     year: '2021'
   tiE0IDMAAAAJ:DyXnQzXoVgIC:
-    citations: 29
+    citations: 31
     title: 'Smart diagnosis: Deep learning boosted driver inattention detection and abnormal driving prediction'
     year: '2021'
   tiE0IDMAAAAJ:Hck25ST_3aIC:
@@ -110,7 +110,7 @@ papers:
     title: "ASTCN: An attentive spatial\u2013temporal convolutional network for flow prediction"
     year: '2021'
   tiE0IDMAAAAJ:UuEBAcK4md4C:
-    citations: 48
+    citations: 49
     title: Fine-grained and real-time gesture recognition by using IMU sensors
     year: '2021'
   tiE0IDMAAAAJ:WF5omc3nYNoC:
@@ -126,7 +126,7 @@ papers:
     title: 'scDTL: single-cell RNA-seq imputation based on deep transfer learning using bulk cell information'
     year: '2024'
   tiE0IDMAAAAJ:Xz60mAmATU4C:
-    citations: 108
+    citations: 109
     title: 'Bitcoin price forecasting: A perspective of underlying blockchain transactions'
     year: '2021'
   tiE0IDMAAAAJ:Y0pCki6q_DkC:
@@ -170,7 +170,7 @@ papers:
     title: A computational analysis of aspect-based sentiment analysis research through bibliometric mapping and topic modeling
     year: '2025'
   tiE0IDMAAAAJ:hSRAE-fF4OAC:
-    citations: 3
+    citations: 4
     title: "MG-ASTN: Multigraph Framework With Attentive Spatial\u2013Temporal Networks for Crowd Mobility Prediction"
     year: '2023'
   tiE0IDMAAAAJ:hqOjcs7Dif8C:
@@ -234,7 +234,7 @@ papers:
     title: RFID-based localization and tracking technologies
     year: '2011'
   tiE0IDMAAAAJ:u5HHmVD_uO8C:
-    citations: 352
+    citations: 353
     title: An RF-based system for tracking transceiver-free objects
     year: '2007'
   tiE0IDMAAAAJ:ufrVoPGSRksC:
