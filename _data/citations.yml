@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-25'
+  last_updated: '2026-04-24'
 papers:
   tiE0IDMAAAAJ:-DxkuPiZhfEC:
     citations: 3
@@ -30,7 +30,7 @@ papers:
     title: Leveraging deep learning for automatic literature screening in intelligent bibliometrics
     year: '2023'
   tiE0IDMAAAAJ:2ywjKiB__4kC:
-    citations: 4
+    citations: 5
     title: Next-generation AI framework for comprehensive oral leukoplakia evaluation and management
     year: '2025'
   tiE0IDMAAAAJ:48xauSegjOkC:
@@ -50,7 +50,7 @@ papers:
     title: Transceiver-free Object Tracking in Wireless Sensor Networks
     year: '2006'
   tiE0IDMAAAAJ:9yKSN-GCB0IC:
-    citations: 199
+    citations: 200
     title: 'Rass: A real-time, accurate, and scalable system for tracking transceiver-free objects'
     year: '2012'
   tiE0IDMAAAAJ:AYInfyleIOsC:
@@ -94,7 +94,7 @@ papers:
     title: 'Terahertz downlink channel estimation using AIoT systems: OMP integrated pruned deep CNN method'
     year: '2025'
   tiE0IDMAAAAJ:SIv7DqKytYAC:
-    citations: 16
+    citations: 17
     title: "Is it all about you or your driving? Designing IoT\u2010enabled risk assessments"
     year: '2022'
   tiE0IDMAAAAJ:Tyk-4Ss8FVUC:
@@ -110,7 +110,7 @@ papers:
     title: "ASTCN: An attentive spatial\u2013temporal convolutional network for flow prediction"
     year: '2021'
   tiE0IDMAAAAJ:UuEBAcK4md4C:
-    citations: 49
+    citations: 53
     title: Fine-grained and real-time gesture recognition by using IMU sensors
     year: '2021'
   tiE0IDMAAAAJ:WF5omc3nYNoC:
@@ -126,7 +126,7 @@ papers:
     title: 'scDTL: single-cell RNA-seq imputation based on deep transfer learning using bulk cell information'
     year: '2024'
   tiE0IDMAAAAJ:Xz60mAmATU4C:
-    citations: 109
+    citations: 110
     title: 'Bitcoin price forecasting: A perspective of underlying blockchain transactions'
     year: '2021'
   tiE0IDMAAAAJ:Y0pCki6q_DkC:
@@ -154,7 +154,7 @@ papers:
     title: 'Compressive sensing based downlink channel estimation for mmWave systems using deep learning: Centralized or decentralized'
     year: '2025'
   tiE0IDMAAAAJ:eGYfIraVYiQC:
-    citations: 2
+    citations: 3
     title: 'Investigating the analgesic mechanisms of acupuncture for cancer pain: insights from multimodal bioelectrical signal analysis'
     year: '2025'
   tiE0IDMAAAAJ:eQOLeE2rZwMC:
@@ -166,7 +166,7 @@ papers:
     title: "SmartRolling: A human\u2013machine interface for wheelchair control using EEG and smart sensing techniques"
     year: '2023'
   tiE0IDMAAAAJ:ghEM2AJqZyQC:
-    citations: 12
+    citations: 17
     title: A computational analysis of aspect-based sentiment analysis research through bibliometric mapping and topic modeling
     year: '2025'
   tiE0IDMAAAAJ:hSRAE-fF4OAC:
@@ -178,7 +178,7 @@ papers:
     title: 'Double free: Measurement-free localization for transceiver-free object'
     year: '2014'
   tiE0IDMAAAAJ:isU91gLudPYC:
-    citations: 1
+    citations: 2
     title: 'MVDC: A Multi-view Dental Completion Model Based on Contrastive Learning'
     year: '2025'
   tiE0IDMAAAAJ:jSAVyFp_754C:
@@ -186,7 +186,7 @@ papers:
     title: An empirical study of radio signal strength in sensor networks
     year: '2006'
   tiE0IDMAAAAJ:kJDgFkosVoMC:
-    citations: 7
+    citations: 8
     title: 'Taposenet: Teeth alignment based on pose estimation via multi-scale graph convolutional network'
     year: '2024'
   tiE0IDMAAAAJ:k_7cPK9k7w8C:
@@ -226,15 +226,15 @@ papers:
     title: 'Beyond RSS: A PRR and SNR aided localization system for transceiver-free target in sparse wireless networks'
     year: '2021'
   tiE0IDMAAAAJ:silx2ntsSuwC:
-    citations: 49
+    citations: 50
     title: A low-cost smart glove system for real-time fitness coaching
     year: '2020'
   tiE0IDMAAAAJ:u-x6o8ySG0sC:
-    citations: 337
+    citations: 340
     title: RFID-based localization and tracking technologies
     year: '2011'
   tiE0IDMAAAAJ:u5HHmVD_uO8C:
-    citations: 353
+    citations: 354
     title: An RF-based system for tracking transceiver-free objects
     year: '2007'
   tiE0IDMAAAAJ:ufrVoPGSRksC:
