@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-24'
+  last_updated: '2026-05-04'
 papers:
   tiE0IDMAAAAJ:-DxkuPiZhfEC:
     citations: 3
@@ -10,11 +10,11 @@ papers:
     title: A precise RFID indoor localization system with sensor network assistance
     year: '2015'
   tiE0IDMAAAAJ:0aBXIfxlw9sC:
-    citations: 5
+    citations: 6
     title: 'St-rlnet: Spatio-temporal representation learning for multi-step traffic flow prediction'
     year: '2025'
   tiE0IDMAAAAJ:1tZ8xJnm2c8C:
-    citations: 1
+    citations: 2
     title: 'Enhancing malignant transformation predictions in oral potentially malignant disorders: A novel machine learning framework using real-world data'
     year: '2025'
   tiE0IDMAAAAJ:27LrP4qxOz0C:
@@ -26,11 +26,11 @@ papers:
     title: 'COCKTAIL: An RF-based hybrid approach for indoor localization'
     year: '2010'
   tiE0IDMAAAAJ:2v_ZtQDX9iAC:
-    citations: 11
+    citations: 12
     title: Leveraging deep learning for automatic literature screening in intelligent bibliometrics
     year: '2023'
   tiE0IDMAAAAJ:2ywjKiB__4kC:
-    citations: 5
+    citations: 6
     title: Next-generation AI framework for comprehensive oral leukoplakia evaluation and management
     year: '2025'
   tiE0IDMAAAAJ:48xauSegjOkC:
@@ -57,6 +57,10 @@ papers:
     citations: 0
     title: ICPADS 2022
     year: Unknown Year
+  tiE0IDMAAAAJ:C33y2ycGS3YC:
+    citations: 0
+    title: Protocol for an interpretable self-attention artificial neural network framework to predict cancer risk in oral potentially malignant disorders
+    year: '2026'
   tiE0IDMAAAAJ:CYCckWUYoCcC:
     citations: 14
     title: 'MoCha: Large-scale driving pattern characterization for usage-based insurance'
@@ -67,7 +71,7 @@ papers:
     year: '2021'
   tiE0IDMAAAAJ:Hck25ST_3aIC:
     citations: 0
-    title: Optimization of Linpack for Loongson 3B processor
+    title: "Optimization of Linpack for Loongson 3B processor= \u57FA\u4E8E\u9F99\u82AF 3B \u5904\u7406\u5668\u7684 Linpack \u4F18\u5316\u5B9E\u73B0"
     year: '2014'
   tiE0IDMAAAAJ:IjCSPb-OGe4C:
     citations: 33
@@ -90,7 +94,7 @@ papers:
     title: Detecting taxi speeding from sparse and low-sampled trajectory data
     year: '2018'
   tiE0IDMAAAAJ:RJOyoaXV5v8C:
-    citations: 0
+    citations: 1
     title: 'Terahertz downlink channel estimation using AIoT systems: OMP integrated pruned deep CNN method'
     year: '2025'
   tiE0IDMAAAAJ:SIv7DqKytYAC:
@@ -110,7 +114,7 @@ papers:
     title: "ASTCN: An attentive spatial\u2013temporal convolutional network for flow prediction"
     year: '2021'
   tiE0IDMAAAAJ:UuEBAcK4md4C:
-    citations: 53
+    citations: 55
     title: Fine-grained and real-time gesture recognition by using IMU sensors
     year: '2021'
   tiE0IDMAAAAJ:WF5omc3nYNoC:
@@ -121,6 +125,10 @@ papers:
     citations: 0
     title: 'Localizing transceiver-free objects: The RF-based approaches'
     year: '2010'
+  tiE0IDMAAAAJ:Wq2b2clWBLsC:
+    citations: 1
+    title: 'ILoRa: Interleaving-driven neural network for rate adaptation in LoRa communications'
+    year: '2025'
   tiE0IDMAAAAJ:X9ykpCP0fEIC:
     citations: 0
     title: 'scDTL: single-cell RNA-seq imputation based on deep transfer learning using bulk cell information'
@@ -186,12 +194,12 @@ papers:
     title: An empirical study of radio signal strength in sensor networks
     year: '2006'
   tiE0IDMAAAAJ:kJDgFkosVoMC:
-    citations: 8
+    citations: 9
     title: 'Taposenet: Teeth alignment based on pose estimation via multi-scale graph convolutional network'
     year: '2024'
   tiE0IDMAAAAJ:k_7cPK9k7w8C:
     citations: 0
-    title: Adaptive deployment optimization for a multi-layer surveillance network
+    title: "Adaptive deployment optimization for a multi-layer surveillance network= \u9762\u5411\u5927\u89C4\u6A21\u591A\u5C42\u76D1\u63A7\u7F51\u7EDC\u7684\u8D44\u6E90\u4F18\u5316\u65B9\u6CD5"
     year: '2014'
   tiE0IDMAAAAJ:mVmsd5A6BfQC:
     citations: 6
