@@ -5,11 +5,24 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 2
-display_categories: [Smart Healthcare, Wireless Sensing, AI & Multimedia]
+display_categories: [Smart Healthcare, Contactless Sensing & Interaction, AI & Multimedia]
 horizontal: false
 ---
 
 <style>
+
+/* ================= 修复 Projects 页面卡片图片高低不对齐 ================= */
+.projects .grid-item .card-img-top,
+.projects .card img {
+    height: 220px !important;      /* 强制统一高度，你可以根据喜好改成 200px 或 240px */
+    width: 100% !important;        /* 宽度撑满卡片 */
+    object-fit: cover !important;  /* 核心魔法：保证图片不变形，自动居中裁剪边缘 */
+    object-position: center !important; /* 确保裁剪时保留图片正中间最核心的内容 */
+}
+.projects .card .card-title {
+    font-size: 1.5rem !important; /* 标题字号调小 */
+    font-weight: 600 !important;  /* 标题加粗 */
+}
 
 /* (A) 把整个网页背景变成浅灰色 */
 body {

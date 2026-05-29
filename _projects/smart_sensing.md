@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Smart Sensing
-description: Provide diverse support for people in need.
+title: Multimodal Interaction Systems
+description: Innovative assistive systems driven by human-centred design.
 img: assets/img/smart_sensing/preview.jpg
 importance: 3
-category: Smart Healthcare
+category: Contactless Sensing & Interaction
 related_publications: false 
 ---
 
@@ -95,11 +95,11 @@ related_publications: false
 
 <div class="text-center mb-5" style="padding: 80px 0;">
     <h1 class="hero-glitch">
-        Smart Sensing
+        Multimodal Interaction Systems
     </h1>
     
     <div>
-        <span class="little-title">Provide diverse support for people in need</span>
+        <span class="little-title">Innovative assistive systems driven by human-centred design.</span>
     </div>
 </div>
 

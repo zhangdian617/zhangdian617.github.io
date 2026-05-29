@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Device-Free Localization and Behavior Sensing
-description: Accurate indoor localization and behavior sensing via wireless signals.
+title: Contactless Tracking & Recognition
+description: High-precision indoor localization and behavior recognition without wearables.
 img: assets/img/device_free/interface.png
 importance: 1
-category: Wireless Sensing
+category: Contactless Sensing & Interaction
 related_publications: false 
 ---
 
