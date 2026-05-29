@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://zhangdian617.github.io/academic/sitemap.xml
+Sitemap: https://zhangdian617.github.io/sitemap.xml
