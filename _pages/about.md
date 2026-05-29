@@ -178,7 +178,7 @@ latest_posts:
             <!-- 电话 + 邮箱 -->
             <div class="mb-1">
                 <span style="margin-right: 25px;">
-                    <i class="fas fa-phone fa-fw" style="color: #444;"></i> +86 13500050657
+                    <i class="fas fa-phone fa-fw" style="color: #444;"></i> (852) 2616 7510
                 </span>
                 <span>
                     <i class="fas fa-envelope fa-fw" style="color: #444;"></i> 
