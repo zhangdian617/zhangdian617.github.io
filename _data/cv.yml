@@ -10,9 +10,9 @@
     - name: Email
       value: zhangdian@ln.edu.hk
     - name: Phone
-      value: (+86) 135-0005-0657
+      value: (852) 2616 7510
     - name: Research Interests
-      value: Artificial Intelligence, Machine Learning, Smart Healthcare, Data Analytics, IoT
+      value: Artificial Intelligence, Machine Learning, Smart Healthcare, Data Analytics, IoT, Mobile Computing
 
 - title: Education
   type: time_table
@@ -41,25 +41,7 @@
     - title: Professor
       institution: College of Computer Science & Software Engineering, Shenzhen University
       year: 2023 - 2025
-    - title: Associate Professor
-      institution: College of Computer Science & Software Engineering, Shenzhen University
-      year: 2021 - 2022
-    - title: Associate Professor
-      institution: Department of Computing & Decision Sciences, Lingnan University, Hong Kong
-      year: 2019 - 2021
-      description: Coordinator, Master program of Artificial Intelligence & Business Analytics (AIBA)
-    - title: Associate Professor
-      institution: Shenzhen University
-      year: 2016 - 2019
-    - title: Assistant Professor
-      institution: Shenzhen University
-      year: 2012 - 2015
-    - title: Research Assistant Professor
-      institution: Fok Ying Tung Graduate School, HKUST
-      year: 2011 - 2012
-    - title: Postdoctoral Fellow
-      institution: Fok Ying Tung Graduate School, HKUST
-      year: 2010 - 2011
+
 
 - title: Industrial Experience
   type: time_table
@@ -74,17 +56,7 @@
       institution: China Pacific Insurance Company
       year: 2019 - Now
       description: Provide industrial solution for the driver risk detection and pricing model design. Received research achievement award in 2019.
-    - title: Manager (IT Dept)
-      institution: Bank of China (BOC) Hong Kong (Holdings) Limited
-      year: 2003 - 2004
-      description: Anti-money Laundering system for London Branch; Remittance system for Vietnam Branch.
-    - title: Project Manager & System Analyst
-      institution: Vanda Group
-      year: 1998 - 2003
-      description: Banking software design and development (Pin An Bank, Guangdong Development Bank).
-    - title: Software Engineer
-      institution: Industry and Commercial Bank of China (ICBC)
-      year: 1996 - 1998
+
 
 - title: Selected Grants
   type: time_table
