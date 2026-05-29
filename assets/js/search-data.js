@@ -438,9 +438,9 @@ ninja.data = [{
           section: "News",},{id: "news-received-the-research-award-at-the-38th-annual-scientific-meeting-of-the-international-association-for-dental-research-iadr-southeast-asia-division",
           title: 'Received the Research Award at the 38th Annual Scientific Meeting of the International...',
           description: "",
-          section: "News",},{id: "projects-device-free-localization-and-behavior-sensing",
-          title: 'Device-Free Localization and Behavior Sensing',
-          description: "Accurate indoor localization and behavior sensing via wireless signals.",
+          section: "News",},{id: "projects-contactless-tracking-amp-recognition",
+          title: 'Contactless Tracking &amp;amp; Recognition',
+          description: "High-precision indoor localization and behavior recognition without wearables.",
           section: "Projects",handler: () => {
               window.location.href = "/academic/projects/Device-Free_Localization/";
             },},{id: "projects-intelligent-acupuncture",
@@ -463,9 +463,9 @@ ninja.data = [{
           description: "Next-Generation AI Platform for Comprehensive Oral Healthcare.",
           section: "Projects",handler: () => {
               window.location.href = "/academic/projects/smart_dentistry/";
-            },},{id: "projects-smart-sensing",
-          title: 'Smart Sensing',
-          description: "Provide diverse support for people in need.",
+            },},{id: "projects-multimodal-interaction-systems",
+          title: 'Multimodal Interaction Systems',
+          description: "Innovative assistive systems driven by human-centred design.",
           section: "Projects",handler: () => {
               window.location.href = "/academic/projects/smart_sensing/";
             },},{id: "teachings-data-science-fundamentals",
