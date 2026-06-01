@@ -19,14 +19,11 @@
   contents:
     - title: PhD in Computer Science & Engineering
       institution: The Hong Kong University of Science and Technology (HKUST)
-      year: 2006 - 2010
       description: "Supervisor: Lionel M. Ni"
     - title: MPhil in Computer Science & Engineering
       institution: HKUST, Hong Kong
-      year: 2004 - 2006
     - title: B.E. in Computer Science
       institution: Wuhan University of Technology (WHUT)
-      year: 1992 - 1996
       description: Graduated at the age of 19
 
 - title: Academic Experience
@@ -40,18 +37,12 @@
         - "<strong>Adjunct Associate Professor</strong>, HKUST (Guangzhou) (since 2023)"
     - title: Professor
       institution: College of Computer Science & Software Engineering, Shenzhen University
-      year: 2023 - 2025
+      year: before 2026
 
 
 - title: Industrial Experience
   type: time_table
   contents:
-    - title: Director, Founder
-      institution: Intelligent Origin Inc. (Technology Seeding Programme)
-      year: 2022 - Now
-      description: 
-        - Developed 'PerfectU', an AI-assisted Digital Dental Treatment Planning Software.
-        - Remote Patient Monitoring System for oral healthcare services.
     - title: Chief Scientist
       institution: China Pacific Insurance Company
       year: 2019 - Now
@@ -68,14 +59,51 @@
       institution: "Remote Medical Interaction based on Wearable Devices, Shenzhen Sci & Tech Foundation (￥600k)"
       year: 2023 - 2025
     - title: Principal Investigator
+      institution: "Human Behavior Modeling and Prediction for Location-based Service in Smart City, Lingnan University ($80k)"
+      year: 2020 - 2021
+    - title: Principal Investigator
       institution: "Next Generation Wireless Localization and Behavior Recognition, NSFC No.61872247 (￥580k)"
       year: 2019 - 2022
     - title: Principal Investigator
       institution: "Next Generation Security Monitoring System, Shenzhen Peacock Program (￥2.7M)"
       year: 2015 - 2018
-    - title: Co-Investigator
-      institution: "NSFC-Guangdong Province Joint Fund No.U1301252 (￥2.7M)"
-      year: 2014 - 2017
+    - title: Principal Investigator
+      institution: "RF-based technologies to track transceiver-free objects, NSFC No.61202377 (￥260k)"
+      year: 2013 - 2015
+    - title: Principal Investigator
+      institution: "Intruder detection and localization in wireless networks, Shenzhen Sci & Tech Foundation (￥100k)"
+      year: 2012 - 2014
+    - title: Principal Investigator
+      institution: "Transceiver-free objects tracking in heterogeneous wireless networks, Guangdong NSF (￥30k)"
+      year: 2012 - 2014
+    - title: Principal Investigator
+      institution: "Coverage model to localize intruder objects, Shenzhen University (￥60k)"
+      year: 2012 - 2013
+    - title: 
+      description: |
+        <style>
+          .items li:has(.ci-magic-box) { list-style-type: none !important; }
+        </style>
+        <div class="ci-magic-box" style="margin-left: -40px;">
+          <details>
+          <summary style="cursor: pointer; font-weight: 600; color: #2a7ae2; padding: 5px 0;"> Click to expand Co-Investigator (CI) Projects</summary>
+          <div style="margin-top: 10px;">
+            <ul style="line-height: 1.8; font-size: 0.95rem; padding-left: 20px;">
+              <li><b>2024 - 2026</b> | Deep Learning-Based Recommendation for Acupuncture Treatment (￥60k)</li>
+              <li><b>2024 - 2026</b> | Multimodal Fusion for Electroacupuncture Therapy in Post-Chemotherapy Peripheral Neuropathy (￥60k)</li>
+              <li><b>2022 - 2025</b> | Multimodal Sensor Fusion for Cancer Pain Prediction, Shenzhen Sci & Tech Foundation (￥300k)</li>
+              <li><b>2017 - 2020</b> | Theoretical Model and Key Technologies of Mobile Payment Security, NSFC No.61672358 (￥630k)</li>
+              <li><b>2016 - 2018</b> | Pilot Extraction Technique to Improve the Performance of Next Generation Wireless Networks, NSFC No.61502313 (￥210k)</li>
+              <li><b>2015 - 2018</b> | Wireless Network Localization Techniques Based on Physical Layer Info, NSFC No.61472259 (￥820k)</li>
+              <li><b>2014 - 2017</b> | High Performance Cloud Computing for Big Data, NSFC-Guangdong Province Joint Fund No.U1301252 (￥2.7M)</li>
+              <li><b>2013 - 2016</b> | Relay Node Deployment Problem in Wireless Sensor Networks, NSFC No.61272445 (￥260k)</li>
+              <li><b>2012 - 2016</b> | Key Technologies of IoT-Oriented Service Middleware, NSFC No.61170077 (￥600k)</li>
+            </ul>
+          </div>
+          </details>
+        </div>
+    
+
 
 - title: Honors & Awards
   type: time_table
@@ -110,9 +138,15 @@
     - "<strong>Editorial Board</strong>: Computer and Education: X Reality (Elsevier)"
     - "<strong>Publicity Chair</strong>: Edge Computing and IoT (2021), IEEE ICPADS (2017)"
 
-- title: Selected Patents
+- title: Patents
   type: list
   contents:
     - "One time imaging method of indoor objects by using RF technology (ZL 2018 1 0204470.8)"
     - "Device-free object sensing and localization method based on sparse networks (ZL 2018 1 0059223.3)"
+    - "Risk behavior prediction method for drivers to drive vehicles (ZL 2018 1 1496492.2)"
+    - "Using multi-channels and SVM to track multiple transceiver-free objects in wireless networks (ZL 2009 1 0192132.8)"
+    - "Multi-Scale Convolutional-Based Dental Orthodontic Analysis Method and Device (Application No: 2024113707419)"
+    - "Contrastive Learning-Driven Multi-View Dental Crown Restoration Algorithm (Application No: 2025104009179)"
     - "Automated Tooth Alignment effect with Smiling Face (Application No: 202410154285.8)"
+    - "Temporomandibular Joint (TMJ) Motion Analysis Using Wireless Signals (Application No: 2025100778285)"
+    - "3D Dental Model Construction Method and System (Application No: 202510443654.X)"

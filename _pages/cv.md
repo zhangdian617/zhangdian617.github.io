@@ -16,7 +16,7 @@ toc:
         display: none !important;
     }
     
-    /* 稍微调整一下顶部间距，让 "General Information" 不要贴得太顶 */
+    /* 调整顶部间距 */
     .post-content {
         padding-top: 20px !important;
     }
