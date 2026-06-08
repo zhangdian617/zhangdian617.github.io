@@ -1,5 +1,4 @@
 
-```markdown
 本文档是本学术网站的日常维护、内容更新及部署指南。
 网站基于 [al-folio](https://github.com/alshedivat/al-folio) Jekyll 主题构建。
 
