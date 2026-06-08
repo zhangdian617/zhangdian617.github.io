@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-05-08'
+  last_updated: '2026-06-08'
 papers:
   tiE0IDMAAAAJ:-DxkuPiZhfEC:
     citations: 3
     title: 'InFit: Combination movement recognition for intensive fitness assistant via Wi-Fi'
     year: '2022'
   tiE0IDMAAAAJ:0EnyYjriUFMC:
-    citations: 45
+    citations: 46
     title: A precise RFID indoor localization system with sensor network assistance
     year: '2015'
   tiE0IDMAAAAJ:0aBXIfxlw9sC:
@@ -62,7 +62,7 @@ papers:
     title: Protocol for an interpretable self-attention artificial neural network framework to predict cancer risk in oral potentially malignant disorders
     year: '2026'
   tiE0IDMAAAAJ:CYCckWUYoCcC:
-    citations: 14
+    citations: 15
     title: 'MoCha: Large-scale driving pattern characterization for usage-based insurance'
     year: '2021'
   tiE0IDMAAAAJ:DyXnQzXoVgIC:
@@ -98,7 +98,7 @@ papers:
     title: 'Terahertz downlink channel estimation using AIoT systems: OMP integrated pruned deep CNN method'
     year: '2025'
   tiE0IDMAAAAJ:SIv7DqKytYAC:
-    citations: 17
+    citations: 20
     title: "Is it all about you or your driving? Designing IoT\u2010enabled risk assessments"
     year: '2022'
   tiE0IDMAAAAJ:Tyk-4Ss8FVUC:
@@ -114,7 +114,7 @@ papers:
     title: "ASTCN: An attentive spatial\u2013temporal convolutional network for flow prediction"
     year: '2021'
   tiE0IDMAAAAJ:UuEBAcK4md4C:
-    citations: 55
+    citations: 57
     title: Fine-grained and real-time gesture recognition by using IMU sensors
     year: '2021'
   tiE0IDMAAAAJ:WF5omc3nYNoC:
@@ -134,7 +134,7 @@ papers:
     title: 'scDTL: single-cell RNA-seq imputation based on deep transfer learning using bulk cell information'
     year: '2024'
   tiE0IDMAAAAJ:Xz60mAmATU4C:
-    citations: 110
+    citations: 111
     title: 'Bitcoin price forecasting: A perspective of underlying blockchain transactions'
     year: '2021'
   tiE0IDMAAAAJ:Y0pCki6q_DkC:
@@ -158,7 +158,7 @@ papers:
     title: Dynamic clustering for tracking multiple transceiver-free objects
     year: '2009'
   tiE0IDMAAAAJ:eAlLMO4JVmQC:
-    citations: 1
+    citations: 0
     title: 'Compressive sensing based downlink channel estimation for mmWave systems using deep learning: Centralized or decentralized'
     year: '2025'
   tiE0IDMAAAAJ:eGYfIraVYiQC:
@@ -170,15 +170,15 @@ papers:
     title: Localizing multiple objects in an rf-based dynamic environment
     year: '2012'
   tiE0IDMAAAAJ:g5Ck-dwhA_QC:
-    citations: 47
+    citations: 50
     title: "SmartRolling: A human\u2013machine interface for wheelchair control using EEG and smart sensing techniques"
     year: '2023'
   tiE0IDMAAAAJ:ghEM2AJqZyQC:
-    citations: 17
+    citations: 18
     title: A computational analysis of aspect-based sentiment analysis research through bibliometric mapping and topic modeling
     year: '2025'
   tiE0IDMAAAAJ:hSRAE-fF4OAC:
-    citations: 5
+    citations: 6
     title: "MG-ASTN: Multigraph Framework With Attentive Spatial\u2013Temporal Networks for Crowd Mobility Prediction"
     year: '2023'
   tiE0IDMAAAAJ:hqOjcs7Dif8C:
@@ -186,7 +186,7 @@ papers:
     title: 'Double free: Measurement-free localization for transceiver-free object'
     year: '2014'
   tiE0IDMAAAAJ:isU91gLudPYC:
-    citations: 2
+    citations: 3
     title: 'MVDC: A Multi-view Dental Completion Model Based on Contrastive Learning'
     year: '2025'
   tiE0IDMAAAAJ:jSAVyFp_754C:
@@ -238,7 +238,7 @@ papers:
     title: A low-cost smart glove system for real-time fitness coaching
     year: '2020'
   tiE0IDMAAAAJ:u-x6o8ySG0sC:
-    citations: 340
+    citations: 341
     title: RFID-based localization and tracking technologies
     year: '2011'
   tiE0IDMAAAAJ:u5HHmVD_uO8C:
