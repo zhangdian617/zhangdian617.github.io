@@ -37,15 +37,13 @@
     </nav>
     
     <style>
-
         /* 默认隐藏 (桌面端不显示) */
         .mobile-nav-container { display: none; }
 
         /* 仅在移动端显示 */
         @media (max-width: 768px) {
             
-            
-            /* 1. 导航栏容器：改为岭南红 */
+            /* 1. 导航栏容器：使用智能背景色 */
             .mobile-nav-container {
                 display: block;
                 position: fixed;
@@ -53,8 +51,11 @@
                 left: 0;
                 width: 100%;
                 z-index: 99999;
-                background-color: #1a1a1a; 
-                box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+                /* 调用系统的全局背景色，白天自动变白，晚上变深灰 */
+                background-color: var(--global-bg-color); 
+                /* 增加一条细微的底边框分隔 */
+                border-bottom: 1px solid var(--global-divider-color);
+                box-shadow: 0 2px 10px rgba(0,0,0,0.05);
             }
 
             /* 2. 顶部条内容 */
@@ -64,10 +65,10 @@
                 align-items: center;
                 height: 50px;
                 padding: 0 20px;
-                color: #ffffff;
             }
             .nav-brand {
-                color: #ffffff !important;
+                /* 调用系统的全局文字颜色，白天黑字，晚上白字 */
+                color: var(--global-text-color) !important;
                 font-weight: 700;
                 font-size: 1.1rem;
                 text-decoration: none;
@@ -81,42 +82,38 @@
                 display: flex;
                 align-items: center;
                 padding: 5px 12px;
-                /* 🔴 按钮边框改为半透明白色，融合红色背景 */
-                border: 1px solid rgba(255,255,255,0.3);
+                /* 边框颜色调用系统的分割线变量 */
+                border: 1px solid var(--global-divider-color);
                 border-radius: 4px;
+                color: var(--global-text-color);
                 transition: background 0.3s;
             }
             .nav-toggle:active { 
-                background-color: rgba(0,0,0,0.2); /* 点击时稍微变暗 */
+                background-color: var(--global-hover-color); 
             }
 
-            /* 3. 下拉菜单列表：改为深一点的红色，增加层次感 */
+            /* 3. 下拉菜单列表：背景和边框全部智能化 */
             .mobile-menu-items {
                 display: none;
-                /* 🔴 改这里：菜单背景用比顶栏稍深一点的红 */
-                background-color: #222222; 
-                border-top: 1px solid rgba(255,255,255,0.1);
+                background-color: var(--global-bg-color); 
+                border-top: 1px solid var(--global-divider-color);
             }
             .mobile-menu-items a {
                 display: block;
                 padding: 15px 25px;
-                color: #fff !important; /* 纯白文字 */
+                color: var(--global-text-color) !important; 
                 text-decoration: none;
                 font-size: 0.95rem;
-                /* 分割线改为半透明白 */
-                border-bottom: 1px solid rgba(255,255,255,0.1);
+                border-bottom: 1px solid var(--global-divider-color);
                 font-weight: 500;
                 letter-spacing: 1px;
             }
             
-            /* 4. 选中/悬浮态 */
+            /* 4. 选中/悬浮态：调用系统的悬浮颜色变量 */
             .mobile-menu-items a:hover, 
             .mobile-menu-items a:active {
-                color: #fff !important;
-
-                /* 🎨【改颜色看这里】高亮背景色 */
-                /* 改为深灰色，低调专业，不刺眼 */
-                background-color: #444444; 
+                color: var(--global-hover-text-color) !important;
+                background-color: var(--global-hover-color) !important; 
             }
 
             /* 5. 调整正文间距 */

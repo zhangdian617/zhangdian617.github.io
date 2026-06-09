@@ -195,14 +195,20 @@ html[data-theme="dark"] {
 }
 
 /* ================= 修复 Publications 预览图高低不对齐 ================= */
-.bibliography .abbr img {
-    width: 100% !important;        /* 宽度撑满左侧的预留列 */
-    height: 90px !important;      /* 🔴 强制统一高度，你觉得偏大可以改成 100px，偏小改成 140px */
-    object-fit: cover !important;  /* 核心魔法：保持比例填满，自动裁剪多余部分 */
+/* 1. 常态化缩略图：统一大小与比例 */
+body .bibliography .abbr img {
+    width: 100% !important;            /* 强制宽度撑满容器，确保缩放时自适应 */
+    aspect-ratio: 16 / 9 !important;   /* 统一宽高比，可根据你的图片排版习惯改为 4/3 或 1.5 */
+    object-fit: cover !important;      /* 填充整个区域，自动裁剪多余部分，保证图片不变形 */
+    border-radius: 6px !important;
+    border: 1px solid #eaeaea !important;
     
-    /* 论文截图通常顶部有标题，或者核心图在上面，所以从 Top 开始居中裁剪效果最好 */
-    object-position: center top !important; 
-    
-    border-radius: 6px !important; /* 顺手加点微圆角，去掉生硬感 */
-    border: 1px solid #eaeaea;     /* 加一圈极细的边框，防止白色背景的图片和网页糊在一起 */
+    /* 移除原来的 max-width, max-height, width: auto, height: auto */
+}
+
+/* 2. 放大状态：恢复全貌 */
+/* 避免 medium-zoom 放大后依然受 aspect-ratio 和 cover 的影响而被裁剪 */
+body .bibliography .abbr img.medium-zoom-image--opened {
+    aspect-ratio: auto !important;     /* 恢复图片原始比例 */
+    object-fit: contain !important;    /* 确保原图完整显示不被裁剪 */
 }

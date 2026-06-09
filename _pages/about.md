@@ -109,24 +109,6 @@ latest_posts:
         text-decoration: underline;
     }
 
-    /* --- 手机端适配 --- */
-    @media (max-width: 768px) {
-        body > .container {
-            width: 100% !important;
-            max-width: 100% !important;
-            margin: 0 !important;
-            padding: 20px !important;
-            box-shadow: none !important; 
-            border-top: none; 
-        }
-        /* 手机上 Logo 居中 */
-        .university-logo {
-            float: none !important;
-            display: block;
-            margin: 0 auto 20px auto;
-            max-width: 200px !important;
-        }
-    }
 </style>
 
 <!-- 2. 核心布局：头像 + 个人信息 -->
