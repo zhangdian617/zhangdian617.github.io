@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-08'
+  last_updated: '2026-06-10'
 papers:
   tiE0IDMAAAAJ:-DxkuPiZhfEC:
     citations: 3
@@ -10,7 +10,7 @@ papers:
     title: A precise RFID indoor localization system with sensor network assistance
     year: '2015'
   tiE0IDMAAAAJ:0aBXIfxlw9sC:
-    citations: 6
+    citations: 7
     title: 'St-rlnet: Spatio-temporal representation learning for multi-step traffic flow prediction'
     year: '2025'
   tiE0IDMAAAAJ:1tZ8xJnm2c8C:
