@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-10'
+  last_updated: '2026-06-15'
 papers:
   tiE0IDMAAAAJ:-DxkuPiZhfEC:
     citations: 3
@@ -14,7 +14,7 @@ papers:
     title: 'St-rlnet: Spatio-temporal representation learning for multi-step traffic flow prediction'
     year: '2025'
   tiE0IDMAAAAJ:1tZ8xJnm2c8C:
-    citations: 2
+    citations: 3
     title: 'Enhancing malignant transformation predictions in oral potentially malignant disorders: A novel machine learning framework using real-world data'
     year: '2025'
   tiE0IDMAAAAJ:27LrP4qxOz0C:
@@ -30,7 +30,7 @@ papers:
     title: Leveraging deep learning for automatic literature screening in intelligent bibliometrics
     year: '2023'
   tiE0IDMAAAAJ:2ywjKiB__4kC:
-    citations: 6
+    citations: 7
     title: Next-generation AI framework for comprehensive oral leukoplakia evaluation and management
     year: '2025'
   tiE0IDMAAAAJ:48xauSegjOkC:
@@ -66,7 +66,7 @@ papers:
     title: 'MoCha: Large-scale driving pattern characterization for usage-based insurance'
     year: '2021'
   tiE0IDMAAAAJ:DyXnQzXoVgIC:
-    citations: 31
+    citations: 32
     title: 'Smart diagnosis: Deep learning boosted driver inattention detection and abnormal driving prediction'
     year: '2021'
   tiE0IDMAAAAJ:Hck25ST_3aIC:
@@ -114,7 +114,7 @@ papers:
     title: "ASTCN: An attentive spatial\u2013temporal convolutional network for flow prediction"
     year: '2021'
   tiE0IDMAAAAJ:UuEBAcK4md4C:
-    citations: 57
+    citations: 58
     title: Fine-grained and real-time gesture recognition by using IMU sensors
     year: '2021'
   tiE0IDMAAAAJ:WF5omc3nYNoC:
@@ -158,7 +158,7 @@ papers:
     title: Dynamic clustering for tracking multiple transceiver-free objects
     year: '2009'
   tiE0IDMAAAAJ:eAlLMO4JVmQC:
-    citations: 0
+    citations: 1
     title: 'Compressive sensing based downlink channel estimation for mmWave systems using deep learning: Centralized or decentralized'
     year: '2025'
   tiE0IDMAAAAJ:eGYfIraVYiQC:
@@ -174,7 +174,7 @@ papers:
     title: "SmartRolling: A human\u2013machine interface for wheelchair control using EEG and smart sensing techniques"
     year: '2023'
   tiE0IDMAAAAJ:ghEM2AJqZyQC:
-    citations: 18
+    citations: 19
     title: A computational analysis of aspect-based sentiment analysis research through bibliometric mapping and topic modeling
     year: '2025'
   tiE0IDMAAAAJ:hSRAE-fF4OAC:
@@ -238,7 +238,7 @@ papers:
     title: A low-cost smart glove system for real-time fitness coaching
     year: '2020'
   tiE0IDMAAAAJ:u-x6o8ySG0sC:
-    citations: 341
+    citations: 342
     title: RFID-based localization and tracking technologies
     year: '2011'
   tiE0IDMAAAAJ:u5HHmVD_uO8C:
