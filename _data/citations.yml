@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-19'
+  last_updated: '2026-06-22'
 papers:
   tiE0IDMAAAAJ:-DxkuPiZhfEC:
     citations: 3
@@ -98,7 +98,7 @@ papers:
     title: 'Terahertz downlink channel estimation using AIoT systems: OMP integrated pruned deep CNN method'
     year: '2025'
   tiE0IDMAAAAJ:SIv7DqKytYAC:
-    citations: 20
+    citations: 21
     title: "Is it all about you or your driving? Designing IoT\u2010enabled risk assessments"
     year: '2022'
   tiE0IDMAAAAJ:Tyk-4Ss8FVUC:
@@ -158,7 +158,7 @@ papers:
     title: Dynamic clustering for tracking multiple transceiver-free objects
     year: '2009'
   tiE0IDMAAAAJ:eAlLMO4JVmQC:
-    citations: 1
+    citations: 0
     title: 'Compressive sensing based downlink channel estimation for mmWave systems using deep learning: Centralized or decentralized'
     year: '2025'
   tiE0IDMAAAAJ:eGYfIraVYiQC:
@@ -194,7 +194,7 @@ papers:
     title: An empirical study of radio signal strength in sensor networks
     year: '2006'
   tiE0IDMAAAAJ:kJDgFkosVoMC:
-    citations: 9
+    citations: 10
     title: 'Taposenet: Teeth alignment based on pose estimation via multi-scale graph convolutional network'
     year: '2024'
   tiE0IDMAAAAJ:k_7cPK9k7w8C:
