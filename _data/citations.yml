@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-22'
+  last_updated: '2026-07-01'
 papers:
   tiE0IDMAAAAJ:-DxkuPiZhfEC:
     citations: 3
@@ -30,7 +30,7 @@ papers:
     title: Leveraging deep learning for automatic literature screening in intelligent bibliometrics
     year: '2023'
   tiE0IDMAAAAJ:2ywjKiB__4kC:
-    citations: 7
+    citations: 8
     title: Next-generation AI framework for comprehensive oral leukoplakia evaluation and management
     year: '2025'
   tiE0IDMAAAAJ:48xauSegjOkC:
@@ -106,7 +106,7 @@ papers:
     title: Localization algorithm based on maximum a posteriori in wireless sensor networks
     year: '2011'
   tiE0IDMAAAAJ:UeHWp8X0CEIC:
-    citations: 66
+    citations: 67
     title: On distinguishing the multiple radio paths in rss-based ranging
     year: '2012'
   tiE0IDMAAAAJ:UmS_249rOGwC:
@@ -134,7 +134,7 @@ papers:
     title: 'scDTL: single-cell RNA-seq imputation based on deep transfer learning using bulk cell information'
     year: '2024'
   tiE0IDMAAAAJ:Xz60mAmATU4C:
-    citations: 111
+    citations: 114
     title: 'Bitcoin price forecasting: A perspective of underlying blockchain transactions'
     year: '2021'
   tiE0IDMAAAAJ:Y0pCki6q_DkC:
@@ -158,11 +158,11 @@ papers:
     title: Dynamic clustering for tracking multiple transceiver-free objects
     year: '2009'
   tiE0IDMAAAAJ:eAlLMO4JVmQC:
-    citations: 0
+    citations: 1
     title: 'Compressive sensing based downlink channel estimation for mmWave systems using deep learning: Centralized or decentralized'
     year: '2025'
   tiE0IDMAAAAJ:eGYfIraVYiQC:
-    citations: 3
+    citations: 4
     title: 'Investigating the analgesic mechanisms of acupuncture for cancer pain: insights from multimodal bioelectrical signal analysis'
     year: '2025'
   tiE0IDMAAAAJ:eQOLeE2rZwMC:
@@ -170,7 +170,7 @@ papers:
     title: Localizing multiple objects in an rf-based dynamic environment
     year: '2012'
   tiE0IDMAAAAJ:g5Ck-dwhA_QC:
-    citations: 50
+    citations: 52
     title: "SmartRolling: A human\u2013machine interface for wheelchair control using EEG and smart sensing techniques"
     year: '2023'
   tiE0IDMAAAAJ:ghEM2AJqZyQC:
@@ -178,7 +178,7 @@ papers:
     title: A computational analysis of aspect-based sentiment analysis research through bibliometric mapping and topic modeling
     year: '2025'
   tiE0IDMAAAAJ:hSRAE-fF4OAC:
-    citations: 6
+    citations: 5
     title: "MG-ASTN: Multigraph Framework With Attentive Spatial\u2013Temporal Networks for Crowd Mobility Prediction"
     year: '2023'
   tiE0IDMAAAAJ:hqOjcs7Dif8C:
@@ -242,7 +242,7 @@ papers:
     title: RFID-based localization and tracking technologies
     year: '2011'
   tiE0IDMAAAAJ:u5HHmVD_uO8C:
-    citations: 354
+    citations: 355
     title: An RF-based system for tracking transceiver-free objects
     year: '2007'
   tiE0IDMAAAAJ:ufrVoPGSRksC:
