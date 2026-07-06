@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-01'
+  last_updated: '2026-07-06'
 papers:
   tiE0IDMAAAAJ:-DxkuPiZhfEC:
     citations: 3
@@ -66,7 +66,7 @@ papers:
     title: 'MoCha: Large-scale driving pattern characterization for usage-based insurance'
     year: '2021'
   tiE0IDMAAAAJ:DyXnQzXoVgIC:
-    citations: 32
+    citations: 33
     title: 'Smart diagnosis: Deep learning boosted driver inattention detection and abnormal driving prediction'
     year: '2021'
   tiE0IDMAAAAJ:Hck25ST_3aIC:
@@ -134,7 +134,7 @@ papers:
     title: 'scDTL: single-cell RNA-seq imputation based on deep transfer learning using bulk cell information'
     year: '2024'
   tiE0IDMAAAAJ:Xz60mAmATU4C:
-    citations: 114
+    citations: 115
     title: 'Bitcoin price forecasting: A perspective of underlying blockchain transactions'
     year: '2021'
   tiE0IDMAAAAJ:Y0pCki6q_DkC:
@@ -186,7 +186,7 @@ papers:
     title: 'Double free: Measurement-free localization for transceiver-free object'
     year: '2014'
   tiE0IDMAAAAJ:isU91gLudPYC:
-    citations: 3
+    citations: 4
     title: 'MVDC: A Multi-view Dental Completion Model Based on Contrastive Learning'
     year: '2025'
   tiE0IDMAAAAJ:jSAVyFp_754C:
@@ -194,7 +194,7 @@ papers:
     title: An empirical study of radio signal strength in sensor networks
     year: '2006'
   tiE0IDMAAAAJ:kJDgFkosVoMC:
-    citations: 10
+    citations: 11
     title: 'Taposenet: Teeth alignment based on pose estimation via multi-scale graph convolutional network'
     year: '2024'
   tiE0IDMAAAAJ:k_7cPK9k7w8C:
