@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-03'
+  last_updated: '2026-08-05'
 papers:
   tiE0IDMAAAAJ:-DxkuPiZhfEC:
     citations: 3
@@ -66,7 +66,7 @@ papers:
     title: 'MoCha: Large-scale driving pattern characterization for usage-based insurance'
     year: '2021'
   tiE0IDMAAAAJ:DyXnQzXoVgIC:
-    citations: 34
+    citations: 35
     title: 'Smart diagnosis: Deep learning boosted driver inattention detection and abnormal driving prediction'
     year: '2021'
   tiE0IDMAAAAJ:Hck25ST_3aIC:
@@ -174,7 +174,7 @@ papers:
     title: "SmartRolling: A human\u2013machine interface for wheelchair control using EEG and smart sensing techniques"
     year: '2023'
   tiE0IDMAAAAJ:ghEM2AJqZyQC:
-    citations: 21
+    citations: 22
     title: A computational analysis of aspect-based sentiment analysis research through bibliometric mapping and topic modeling
     year: '2025'
   tiE0IDMAAAAJ:hSRAE-fF4OAC:
@@ -238,7 +238,7 @@ papers:
     title: A low-cost smart glove system for real-time fitness coaching
     year: '2020'
   tiE0IDMAAAAJ:u-x6o8ySG0sC:
-    citations: 334
+    citations: 335
     title: RFID-based localization and tracking technologies
     year: '2011'
   tiE0IDMAAAAJ:u5HHmVD_uO8C:
