@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-08-05'
+  last_updated: '2026-08-24'
 papers:
   tiE0IDMAAAAJ:-DxkuPiZhfEC:
-    citations: 3
+    citations: 4
     title: 'InFit: Combination movement recognition for intensive fitness assistant via Wi-Fi'
     year: '2022'
   tiE0IDMAAAAJ:0EnyYjriUFMC:
@@ -14,7 +14,7 @@ papers:
     title: 'St-rlnet: Spatio-temporal representation learning for multi-step traffic flow prediction'
     year: '2025'
   tiE0IDMAAAAJ:1tZ8xJnm2c8C:
-    citations: 3
+    citations: 4
     title: 'Enhancing malignant transformation predictions in oral potentially malignant disorders: A novel machine learning framework using real-world data'
     year: '2025'
   tiE0IDMAAAAJ:27LrP4qxOz0C:
@@ -114,7 +114,7 @@ papers:
     title: "ASTCN: An attentive spatial\u2013temporal convolutional network for flow prediction"
     year: '2021'
   tiE0IDMAAAAJ:UuEBAcK4md4C:
-    citations: 59
+    citations: 61
     title: Fine-grained and real-time gesture recognition by using IMU sensors
     year: '2021'
   tiE0IDMAAAAJ:WF5omc3nYNoC:
@@ -134,7 +134,7 @@ papers:
     title: 'scDTL: single-cell RNA-seq imputation based on deep transfer learning using bulk cell information'
     year: '2024'
   tiE0IDMAAAAJ:Xz60mAmATU4C:
-    citations: 113
+    citations: 115
     title: 'Bitcoin price forecasting: A perspective of underlying blockchain transactions'
     year: '2021'
   tiE0IDMAAAAJ:Y0pCki6q_DkC:
@@ -170,11 +170,11 @@ papers:
     title: Localizing multiple objects in an rf-based dynamic environment
     year: '2012'
   tiE0IDMAAAAJ:g5Ck-dwhA_QC:
-    citations: 50
+    citations: 52
     title: "SmartRolling: A human\u2013machine interface for wheelchair control using EEG and smart sensing techniques"
     year: '2023'
   tiE0IDMAAAAJ:ghEM2AJqZyQC:
-    citations: 22
+    citations: 23
     title: A computational analysis of aspect-based sentiment analysis research through bibliometric mapping and topic modeling
     year: '2025'
   tiE0IDMAAAAJ:hSRAE-fF4OAC:
@@ -234,15 +234,15 @@ papers:
     title: 'Beyond RSS: A PRR and SNR aided localization system for transceiver-free target in sparse wireless networks'
     year: '2021'
   tiE0IDMAAAAJ:silx2ntsSuwC:
-    citations: 51
+    citations: 52
     title: A low-cost smart glove system for real-time fitness coaching
     year: '2020'
   tiE0IDMAAAAJ:u-x6o8ySG0sC:
-    citations: 335
+    citations: 338
     title: RFID-based localization and tracking technologies
     year: '2011'
   tiE0IDMAAAAJ:u5HHmVD_uO8C:
-    citations: 352
+    citations: 353
     title: An RF-based system for tracking transceiver-free objects
     year: '2007'
   tiE0IDMAAAAJ:ufrVoPGSRksC:
