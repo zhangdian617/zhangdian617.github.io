@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-24'
+  last_updated: '2026-08-28'
 papers:
   tiE0IDMAAAAJ:-DxkuPiZhfEC:
     citations: 4
@@ -10,7 +10,7 @@ papers:
     title: A precise RFID indoor localization system with sensor network assistance
     year: '2015'
   tiE0IDMAAAAJ:0aBXIfxlw9sC:
-    citations: 7
+    citations: 8
     title: 'St-rlnet: Spatio-temporal representation learning for multi-step traffic flow prediction'
     year: '2025'
   tiE0IDMAAAAJ:1tZ8xJnm2c8C:
@@ -30,7 +30,7 @@ papers:
     title: Leveraging deep learning for automatic literature screening in intelligent bibliometrics
     year: '2023'
   tiE0IDMAAAAJ:2ywjKiB__4kC:
-    citations: 9
+    citations: 10
     title: Next-generation AI framework for comprehensive oral leukoplakia evaluation and management
     year: '2025'
   tiE0IDMAAAAJ:48xauSegjOkC:
@@ -42,7 +42,7 @@ papers:
     title: Precise transceiver-free localization in complex indoor environment
     year: '2016'
   tiE0IDMAAAAJ:8Xgff_V0N9gC:
-    citations: 25
+    citations: 26
     title: Leveraging statistical information in fine-grained financial sentiment analysis
     year: '2022'
   tiE0IDMAAAAJ:9ZlFYXVOiuMC:
@@ -242,7 +242,7 @@ papers:
     title: RFID-based localization and tracking technologies
     year: '2011'
   tiE0IDMAAAAJ:u5HHmVD_uO8C:
-    citations: 353
+    citations: 354
     title: An RF-based system for tracking transceiver-free objects
     year: '2007'
   tiE0IDMAAAAJ:ufrVoPGSRksC:
